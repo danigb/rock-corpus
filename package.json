@@ -30,6 +30,8 @@
   },
   "homepage": "https://github.com/danigb/rock-corpus#readme",
   "devDependencies": {
+    "colors": "^1.1.2",
+    "diff": "^2.1.1",
     "vows": "^0.8.1"
   }
 }
