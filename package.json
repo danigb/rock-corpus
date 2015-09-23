@@ -1,0 +1,35 @@
+{
+  "name": "rock-corpus",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "The unofficial repository of A Corpus Study of Rock",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vows test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danigb/rock-corpus.git"
+  },
+  "keywords": [
+    "rock",
+    "harmony",
+    "theory",
+    "music",
+    "analisys",
+    "melody"
+  ],
+  "author": "Trevor de Clercq, David Temperley (data) and danigb (code)",
+  "license": "CC-4.0-by (data) and MIT (code)",
+  "bugs": {
+    "url": "https://github.com/danigb/rock-corpus/issues"
+  },
+  "homepage": "https://github.com/danigb/rock-corpus#readme",
+  "devDependencies": {
+    "vows": "^0.8.1"
+  }
+}
