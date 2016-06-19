@@ -34,5 +34,8 @@
     "diff": "^2.1.1",
     "metalsmith": "^2.1.0",
     "vows": "^0.8.1"
+  },
+  "dependencies": {
+    "capitalize": "^1.0.0"
   }
 }
