@@ -3,13 +3,13 @@
   "private": "true",
   "version": "1.0.0",
   "description": "The unofficial repository of A Corpus Study of Rock",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
   "scripts": {
-    "test": "vows test/*.js"
+    "build": "node lib/index.js"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,7 @@
   "devDependencies": {
     "colors": "^1.1.2",
     "diff": "^2.1.1",
+    "metalsmith": "^2.1.0",
     "vows": "^0.8.1"
   }
 }

@@ -1,0 +1,1138 @@
+{
+  "1999": [
+    "rs200_melody/1999_tdc.mel",
+    "rs200_harmony/1999_dt.har",
+    "rs200_harmony/1999_tdc.har"
+  ],
+  "A Change is Gonna Come": [
+    "rs200_melody/a_change_is_gonna_come_dt.mel",
+    "rs200_harmony/a_change_is_gonna_come_dt.har"
+  ],
+  "A Day In The Life": [
+    "rs200_melody/a_day_in_the_life_tdc.mel",
+    "rs200_harmony/a_day_in_the_life_tdc.har"
+  ],
+  "A Hard Day's Night": [
+    "rs200_melody/a_hard_days_night_tdc.mel",
+    "rs200_harmony/a_hard_days_night_dt.har"
+  ],
+  "A Whiter Shade of Pale": [
+    "rs200_melody/a_whiter_shade_of_pale_tdc.mel",
+    "rs200_harmony/a_whiter_shade_of_pale_tdc.har"
+  ],
+  "All Along the Watchtower": [
+    "rs200_melody/all_along_the_watchtower_dt.mel",
+    "rs200_harmony/all_along_the_watchtower_dt.har"
+  ],
+  "All Apologies": [
+    "rs200_melody/all_apologies_dt.mel",
+    "rs200_harmony/all_apologies_dt.har",
+    "rs200_harmony/all_apologies_tdc.har"
+  ],
+  "All I Have To Do Is Dream": [
+    "rs200_melody/all_i_have_to_do_is_dream_tdc.mel",
+    "rs200_harmony/all_i_have_to_do_is_dream_tdc.har"
+  ],
+  "Anarchy in the U.K.": [
+    "rs200_melody/anarchy_in_the_uk_tdc.mel",
+    "rs200_harmony/anarchy_in_the_uk_tdc.har"
+  ],
+  "Back in Black": [
+    "rs200_melody/back_in_black_dt.mel",
+    "rs200_harmony/back_in_black_dt.har",
+    "rs200_harmony/back_in_black_tdc.har"
+  ],
+  "Be-Bop-A-Lula": [
+    "rs200_melody/be-bop-a-lula_dt.mel",
+    "rs200_harmony/be-bop-a-lula_tdc.har"
+  ],
+  "Be My Baby": [
+    "rs200_melody/be_my_baby_tdc.mel",
+    "rs200_harmony/be_my_baby_dt.har",
+    "rs200_harmony/be_my_baby_tdc.har"
+  ],
+  "Billie Jean": [
+    "rs200_melody/billie_jean_dt.mel",
+    "rs200_harmony/billie_jean_dt.har",
+    "rs200_harmony/billie_jean_tdc.har"
+  ],
+  "Bitter Sweet Symphony": [
+    "rs200_melody/bitter_sweet_symphony_tdc.mel",
+    "rs200_harmony/bitter_sweet_symphony_tdc.har"
+  ],
+  "Bizarre Love Triangle": [
+    "rs200_melody/bizarre_love_triangle_dt.mel",
+    "rs200_harmony/bizarre_love_triangle_dt.har",
+    "rs200_harmony/bizarre_love_triangle_tdc.har"
+  ],
+  "Blitzkrieg Bop": [
+    "rs200_melody/blitzkrieg_bop_tdc.mel",
+    "rs200_harmony/blitzkrieg_bop_dt.har",
+    "rs200_harmony/blitzkrieg_bop_tdc.har"
+  ],
+  "Blowin' in the Wind": [
+    "rs200_melody/blowin_in_the_wind_dt.mel",
+    "rs200_harmony/blowin_in_the_wind_tdc.har"
+  ],
+  "Blue Suede Shoes": [
+    "rs200_melody/blue_suede_shoes_tdc.mel",
+    "rs200_harmony/blue_suede_shoes_dt.har",
+    "rs200_harmony/blue_suede_shoes_tdc.har"
+  ],
+  "Blueberry Hill": [
+    "rs200_melody/blueberry_hill_dt.mel",
+    "rs200_harmony/blueberry_hill_dt.har",
+    "rs200_harmony/blueberry_hill_tdc.har"
+  ],
+  "Bo Diddley": [
+    "rs200_melody/bo_diddley_tdc.mel",
+    "rs200_harmony/bo_diddley_dt.har",
+    "rs200_harmony/bo_diddley_tdc.har"
+  ],
+  "Bohemian Rhapsody": [
+    "rs200_melody/bohemian_rhapsody_tdc.mel",
+    "rs200_harmony/bohemian_rhapsody_dt.har",
+    "rs200_harmony/bohemian_rhapsody_tdc.har"
+  ],
+  "Born to be Wild": [
+    "rs200_melody/born_to_be_wild_dt.mel",
+    "rs200_harmony/born_to_be_wild_dt.har"
+  ],
+  "Born to Run": [
+    "rs200_melody/born_to_run_dt.mel",
+    "rs200_harmony/born_to_run_dt.har"
+  ],
+  "Both Sides Now": [
+    "rs200_melody/both_sides_now_tdc.mel",
+    "rs200_harmony/both_sides_now_dt.har",
+    "rs200_harmony/both_sides_now_tdc.har"
+  ],
+  "Bridge Over Troubled Water": [
+    "rs200_melody/bridge_over_troubled_water_tdc.mel",
+    "rs200_harmony/bridge_over_troubled_water_dt.har",
+    "rs200_harmony/bridge_over_troubled_water_tdc.har"
+  ],
+  "Brown-Eyed Girl": [
+    "rs200_melody/brown-eyed_girl_dt.mel",
+    "rs200_harmony/brown-eyed_girl_dt.har",
+    "rs200_harmony/brown-eyed_girl_tdc.har"
+  ],
+  "California Dreamin'": [
+    "rs200_melody/california_dreamin_tdc.mel",
+    "rs200_harmony/california_dreamin_dt.har",
+    "rs200_harmony/california_dreamin_tdc.har"
+  ],
+  "California Girls": [
+    "rs200_melody/california_girls_dt.mel",
+    "rs200_harmony/california_girls_dt.har",
+    "rs200_harmony/california_girls_tdc.har"
+  ],
+  "California Love": [
+    "rs200_melody/california_love_tdc.mel",
+    "rs200_harmony/california_love_dt.har",
+    "rs200_harmony/california_love_tdc.har"
+  ],
+  "Cathy's Clown": [
+    "rs200_melody/cathys_clown_tdc.mel",
+    "rs200_harmony/cathys_clown_dt.har",
+    "rs200_harmony/cathys_clown_tdc.har"
+  ],
+  "Changes": [
+    "rs200_melody/changes_dt.mel",
+    "rs200_harmony/changes_dt.har",
+    "rs200_harmony/changes_tdc.har"
+  ],
+  "Come As You Are": [
+    "rs200_melody/come_as_you_are_dt.mel",
+    "rs200_harmony/come_as_you_are_dt.har",
+    "rs200_harmony/come_as_you_are_tdc.har"
+  ],
+  "Crazy": [
+    "rs200_melody/crazy_tdc.mel",
+    "rs200_harmony/crazy_dt.har",
+    "rs200_harmony/crazy_tdc.har"
+  ],
+  "Crying": [
+    "rs200_melody/crying_dt.mel",
+    "rs200_harmony/crying_dt.har",
+    "rs200_harmony/crying_tdc.har"
+  ],
+  "Da Doo Ron Ron": [
+    "rs200_melody/da_doo_ron_ron_tdc.mel",
+    "rs200_harmony/da_doo_ron_ron_dt.har",
+    "rs200_harmony/da_doo_ron_ron_tdc.har"
+  ],
+  "Dancing in the Street": [
+    "rs200_melody/dancing_in_the_street_dt.mel",
+    "rs200_harmony/dancing_in_the_street_dt.har"
+  ],
+  "Dancing Queen": [
+    "rs200_melody/dancing_queen_tdc.mel",
+    "rs200_harmony/dancing_queen_dt.har",
+    "rs200_harmony/dancing_queen_tdc.har"
+  ],
+  "Dont Worry Baby": [
+    "rs200_melody/dont_worry_baby_dt.mel"
+  ],
+  "Dream On": [
+    "rs200_melody/dream_on_tdc.mel",
+    "rs200_harmony/dream_on_dt.har",
+    "rs200_harmony/dream_on_tdc.har"
+  ],
+  "Earth Angel": [
+    "rs200_melody/earth_angel_dt.mel",
+    "rs200_harmony/earth_angel_dt.har",
+    "rs200_harmony/earth_angel_tdc.har"
+  ],
+  "Eight Miles High": [
+    "rs200_melody/eight_miles_high_tdc.mel",
+    "rs200_harmony/eight_miles_high_dt.har",
+    "rs200_harmony/eight_miles_high_tdc.har"
+  ],
+  "Eleanor Rigby": [
+    "rs200_melody/eleanor_rigby_dt.mel",
+    "rs200_harmony/eleanor_rigby_dt.har",
+    "rs200_harmony/eleanor_rigby_tdc.har"
+  ],
+  "Enter Sandman": [
+    "rs200_melody/enter_sandman_tdc.mel",
+    "rs200_harmony/enter_sandman_dt.har",
+    "rs200_harmony/enter_sandman_tdc.har"
+  ],
+  "Every Breath You Take": [
+    "rs200_melody/every_breath_you_take_dt.mel",
+    "rs200_harmony/every_breath_you_take_dt.har",
+    "rs200_harmony/every_breath_you_take_tdc.har"
+  ],
+  "Everyday People": [
+    "rs200_melody/everyday_people_tdc.mel",
+    "rs200_harmony/everyday_people_dt.har",
+    "rs200_harmony/everyday_people_tdc.har"
+  ],
+  "Fake Plastic Trees": [
+    "rs200_melody/fake_plastic_trees_tdc.mel",
+    "rs200_harmony/fake_plastic_trees_dt.har",
+    "rs200_harmony/fake_plastic_trees_tdc.har"
+  ],
+  "Family Affair": [
+    "rs200_melody/family_affair_dt.mel",
+    "rs200_harmony/family_affair_dt.har",
+    "rs200_harmony/family_affair_tdc.har"
+  ],
+  "Fast Car": [
+    "rs200_melody/fast_car_dt.mel",
+    "rs200_harmony/fast_car_dt.har",
+    "rs200_harmony/fast_car_tdc.har"
+  ],
+  "Folsom Prison Blues": [
+    "rs200_melody/folsom_prison_blues_tdc.mel",
+    "rs200_harmony/folsom_prison_blues_dt.har",
+    "rs200_harmony/folsom_prison_blues_tdc.har"
+  ],
+  "For What It's Worth": [
+    "rs200_melody/for_what_its_worth_dt.mel",
+    "rs200_harmony/for_what_its_worth_tdc.har"
+  ],
+  "Fortunate Son": [
+    "rs200_melody/fortunate_son_tdc.mel",
+    "rs200_harmony/fortunate_son_dt.har",
+    "rs200_harmony/fortunate_son_tdc.har"
+  ],
+  "Foxey Lady": [
+    "rs200_melody/foxey_lady_dt.mel",
+    "rs200_harmony/foxey_lady_dt.har",
+    "rs200_harmony/foxey_lady_tdc.har"
+  ],
+  "Free Fallin'": [
+    "rs200_melody/free_fallin_tdc.mel",
+    "rs200_harmony/free_fallin_dt.har",
+    "rs200_harmony/free_fallin_tdc.har"
+  ],
+  "Georgia On My Mind": [
+    "rs200_melody/georgia_on_my_mind_tdc.mel",
+    "rs200_harmony/georgia_on_my_mind_dt.har",
+    "rs200_harmony/georgia_on_my_mind_tdc.har"
+  ],
+  "Gimme Shelter": [
+    "rs200_melody/gimme_shelter_dt.mel",
+    "rs200_harmony/gimme_shelter_dt.har",
+    "rs200_harmony/gimme_shelter_tdc.har"
+  ],
+  "Go Your Own Way": [
+    "rs200_melody/go_your_own_way_tdc.mel",
+    "rs200_harmony/go_your_own_way_dt.har",
+    "rs200_harmony/go_your_own_way_tdc.har"
+  ],
+  "God Only Knows": [
+    "rs200_melody/god_only_knows_dt.mel",
+    "rs200_harmony/god_only_knows_dt.har",
+    "rs200_harmony/god_only_knows_tdc.har"
+  ],
+  "God Save the Queen": [
+    "rs200_melody/god_save_the_queen_dt.mel",
+    "rs200_harmony/god_save_the_queen_dt.har"
+  ],
+  "Good Golly Miss Molly": [
+    "rs200_melody/good_golly_miss_molly_tdc.mel",
+    "rs200_harmony/good_golly_miss_molly_dt.har",
+    "rs200_harmony/good_golly_miss_molly_tdc.har"
+  ],
+  "Good Vibrations": [
+    "rs200_melody/good_vibrations_dt.mel",
+    "rs200_harmony/good_vibrations_dt.har",
+    "rs200_harmony/good_vibrations_tdc.har"
+  ],
+  "Great Balls of Fire": [
+    "rs200_melody/great_balls_of_fire_tdc.mel",
+    "rs200_harmony/great_balls_of_fire_dt.har",
+    "rs200_harmony/great_balls_of_fire_tdc.har"
+  ],
+  "Hallelujah": [
+    "rs200_melody/hallelujah_dt.mel",
+    "rs200_harmony/hallelujah_dt.har",
+    "rs200_harmony/hallelujah_tdc.har"
+  ],
+  "Heartbreak Hotel": [
+    "rs200_melody/heartbreak_hotel_tdc.mel",
+    "rs200_harmony/heartbreak_hotel_dt.har",
+    "rs200_harmony/heartbreak_hotel_tdc.har"
+  ],
+  "Help": [
+    "rs200_melody/help_dt.mel",
+    "rs200_harmony/help_dt.har"
+  ],
+  "Heroes": [
+    "rs200_melody/heroes_tdc.mel",
+    "rs200_harmony/heroes_dt.har",
+    "rs200_harmony/heroes_tdc.har"
+  ],
+  "Hey Jude": [
+    "rs200_melody/hey_jude_dt.mel",
+    "rs200_harmony/hey_jude_dt.har",
+    "rs200_harmony/hey_jude_tdc.har"
+  ],
+  "Honky Tonk Women": [
+    "rs200_melody/honky_tonk_women_tdc.mel",
+    "rs200_harmony/honky_tonk_women_dt.har",
+    "rs200_harmony/honky_tonk_women_tdc.har"
+  ],
+  "Hot Stuff": [
+    "rs200_melody/hot_stuff_tdc.mel",
+    "rs200_harmony/hot_stuff_dt.har",
+    "rs200_harmony/hot_stuff_tdc.har"
+  ],
+  "Hotel California": [
+    "rs200_melody/hotel_california_dt.mel",
+    "rs200_harmony/hotel_california_dt.har",
+    "rs200_harmony/hotel_california_tdc.har"
+  ],
+  "Hound Dog": [
+    "rs200_melody/hound_dog_tdc.mel",
+    "rs200_harmony/hound_dog_dt.har",
+    "rs200_harmony/hound_dog_tdc.har"
+  ],
+  "House of the Rising Sun": [
+    "rs200_melody/house_of_the_rising_sun_dt.mel",
+    "rs200_harmony/house_of_the_rising_sun_dt.har",
+    "rs200_harmony/house_of_the_rising_sun_tdc.har"
+  ],
+  "I Believe I Can Fly": [
+    "rs200_melody/i_believe_i_can_fly_dt.mel",
+    "rs200_harmony/i_believe_i_can_fly_dt.har",
+    "rs200_harmony/i_believe_i_can_fly_tdc.har"
+  ],
+  "I Can't Make You Love Me": [
+    "rs200_melody/i_cant_make_you_love_me_tdc.mel",
+    "rs200_harmony/i_cant_make_you_love_me_dt.har",
+    "rs200_harmony/i_cant_make_you_love_me_tdc.har"
+  ],
+  "I Can't Stop Loving You": [
+    "rs200_melody/i_cant_stop_loving_you_tdc.mel",
+    "rs200_harmony/i_cant_stop_loving_you_dt.har",
+    "rs200_harmony/i_cant_stop_loving_you_tdc.har"
+  ],
+  "I Fought the Law": [
+    "rs200_melody/i_fought_the_law_dt.mel",
+    "rs200_harmony/i_fought_the_law_dt.har"
+  ],
+  "I Got You (I Feel Good)": [
+    "rs200_melody/i_got_you_tdc.mel",
+    "rs200_harmony/i_got_you_tdc.har"
+  ],
+  "I Heard it Through the Grapevine": [
+    "rs200_melody/i_heard_it_through_the_grapevine_dt.mel",
+    "rs200_harmony/i_heard_it_through_the_grapevine_dt.har"
+  ],
+  "I Only Have Eyes For You": [
+    "rs200_melody/i_only_have_eyes_for_you_tdc.mel",
+    "rs200_harmony/i_only_have_eyes_for_you_tdc.har"
+  ],
+  "I Saw Her Standing There": [
+    "rs200_melody/i_saw_her_standing_there_dt.mel",
+    "rs200_harmony/i_saw_her_standing_there_dt.har",
+    "rs200_harmony/i_saw_her_standing_there_tdc.har"
+  ],
+  "I Still Haven't Found What I'm Looking For": [
+    "rs200_melody/i_still_havent_found_what_im_looking_for_dt.mel",
+    "rs200_harmony/i_still_havent_found_what_im_looking_for_dt.har",
+    "rs200_harmony/i_still_havent_found_what_im_looking_for_tdc.har"
+  ],
+  "I Walk The Line": [
+    "rs200_melody/i_walk_the_line_tdc.mel",
+    "rs200_harmony/i_walk_the_line_tdc.har"
+  ],
+  "I Wanna Be Sedated": [
+    "rs200_melody/i_wanna_be_sedated_tdc.mel",
+    "rs200_harmony/i_wanna_be_sedated_dt.har",
+    "rs200_harmony/i_wanna_be_sedated_tdc.har"
+  ],
+  "I Want To Hold Your hand": [
+    "rs200_melody/i_want_to_hold_your_hand_dt.mel"
+  ],
+  "I Want You Back": [
+    "rs200_melody/i_want_you_back_dt.mel",
+    "rs200_harmony/i_want_you_back_dt.har",
+    "rs200_harmony/i_want_you_back_tdc.har"
+  ],
+  "I'm So Lonesome": [
+    "rs200_melody/im_so_lonesome_i_could_cry_tdc.mel",
+    "rs200_harmony/im_so_lonesome_i_could_cry_tdc.har"
+  ],
+  "I'm Waiting for the Man": [
+    "rs200_melody/im_waiting_for_the_man_dt.mel",
+    "rs200_harmony/im_waiting_for_the_man_dt.har"
+  ],
+  "Imagine": [
+    "rs200_melody/imagine_tdc.mel",
+    "rs200_harmony/imagine_dt.har",
+    "rs200_harmony/imagine_tdc.har"
+  ],
+  "In Bloom": [
+    "rs200_melody/in_bloom_dt.mel",
+    "rs200_harmony/in_bloom_dt.har",
+    "rs200_harmony/in_bloom_tdc.har"
+  ],
+  "In My Life (1965)": [
+    "rs200_melody/in_my_life_tdc.mel"
+  ],
+  "In the Midnight Hour": [
+    "rs200_melody/in_the_midnight_hour_dt.mel",
+    "rs200_harmony/in_the_midnight_hour_tdc.har"
+  ],
+  "In the Still of the Night": [
+    "rs200_melody/in_the_still_of_the_night_dt.mel",
+    "rs200_harmony/in_the_still_of_the_night_dt.har"
+  ],
+  "It's a Man's, Man's, Man's World": [
+    "rs200_melody/its_a_mans_mans_mans_world_tdc.mel",
+    "rs200_harmony/its_a_mans_mans_mans_world_tdc.har"
+  ],
+  "I've Been Loving You": [
+    "rs200_melody/ive_been_loving_you_too_long_tdc.mel",
+    "rs200_harmony/ive_been_loving_you_too_long_dt.har",
+    "rs200_harmony/ive_been_loving_you_too_long_tdc.har"
+  ],
+  "Jailhouse Rock": [
+    "rs200_melody/jailhouse_rock_tdc.mel",
+    "rs200_harmony/jailhouse_rock_dt.har",
+    "rs200_harmony/jailhouse_rock_tdc.har"
+  ],
+  "Johnny B. Goode": [
+    "rs200_melody/johnny_b_goode_dt.mel",
+    "rs200_harmony/johnny_b_goode_dt.har",
+    "rs200_harmony/johnny_b_goode_tdc.har"
+  ],
+  "Jumpin' Jack Flash": [
+    "rs200_melody/jumpin_jack_flash_dt.mel",
+    "rs200_harmony/jumpin_jack_flash_dt.har",
+    "rs200_harmony/jumpin_jack_flash_tdc.har"
+  ],
+  "Kashmir": [
+    "rs200_melody/kashmir_tdc.mel",
+    "rs200_harmony/kashmir_dt.har",
+    "rs200_harmony/kashmir_tdc.har"
+  ],
+  "Layla": [
+    "rs200_melody/layla_tdc.mel",
+    "rs200_harmony/layla_dt.har",
+    "rs200_harmony/layla_tdc.har"
+  ],
+  "Let it Be": [
+    "rs200_melody/let_it_be_dt.mel",
+    "rs200_harmony/let_it_be_dt.har"
+  ],
+  "Let's Get it On": [
+    "rs200_melody/lets_get_it_on_dt.mel",
+    "rs200_harmony/lets_get_it_on_dt.har"
+  ],
+  "Let's Stay Together": [
+    "rs200_melody/lets_stay_together_tdc.mel",
+    "rs200_harmony/lets_stay_together_dt.har",
+    "rs200_harmony/lets_stay_together_tdc.har"
+  ],
+  "Light My Fire": [
+    "rs200_melody/light_my_fire_tdc.mel",
+    "rs200_harmony/light_my_fire_tdc.har"
+  ],
+  "Like a Rolling Stone": [
+    "rs200_melody/like_a_rolling_stone_dt.mel"
+  ],
+  "Little Red Corvette": [
+    "rs200_melody/little_red_corvette_tdc.mel",
+    "rs200_harmony/little_red_corvette_dt.har",
+    "rs200_harmony/little_red_corvette_tdc.har"
+  ],
+  "Living for the City": [
+    "rs200_melody/living_for_the_city_dt.mel",
+    "rs200_harmony/living_for_the_city_dt.har"
+  ],
+  "London Calling": [
+    "rs200_melody/london_calling_tdc.mel",
+    "rs200_harmony/london_calling_dt.har",
+    "rs200_harmony/london_calling_tdc.har"
+  ],
+  "Long Tall Sally": [
+    "rs200_melody/long_tall_sally_dt.mel",
+    "rs200_harmony/long_tall_sally_dt.har",
+    "rs200_harmony/long_tall_sally_tdc.har"
+  ],
+  "Lose Yourself": [
+    "rs200_melody/lose_yourself_dt.mel",
+    "rs200_harmony/lose_yourself_dt.har",
+    "rs200_harmony/lose_yourself_tdc.har"
+  ],
+  "Loser": [
+    "rs200_melody/loser_tdc.mel",
+    "rs200_harmony/loser_dt.har",
+    "rs200_harmony/loser_tdc.har"
+  ],
+  "Losing My Religion": [
+    "rs200_melody/losing_my_religion_dt.mel",
+    "rs200_harmony/losing_my_religion_dt.har",
+    "rs200_harmony/losing_my_religion_tdc.har"
+  ],
+  "Louie Louie": [
+    "rs200_melody/louie_louie_tdc.mel",
+    "rs200_harmony/louie_louie_dt.har",
+    "rs200_harmony/louie_louie_tdc.har"
+  ],
+  "Love and Happiness": [
+    "rs200_melody/love_and_happiness_tdc.mel",
+    "rs200_harmony/love_and_happiness_dt.har",
+    "rs200_harmony/love_and_happiness_tdc.har"
+  ],
+  "Love Will Tear Us Apart": [
+    "rs200_melody/love_will_tear_us_apart_dt.mel",
+    "rs200_harmony/love_will_tear_us_apart_dt.har",
+    "rs200_harmony/love_will_tear_us_apart_tdc.har"
+  ],
+  "Lust for Life": [
+    "rs200_melody/lust_for_life_dt.mel",
+    "rs200_harmony/lust_for_life_dt.har"
+  ],
+  "Maggie May": [
+    "rs200_melody/maggie_may_tdc.mel",
+    "rs200_harmony/maggie_may_dt.har",
+    "rs200_harmony/maggie_may_tdc.har"
+  ],
+  "Maybellene": [
+    "rs200_melody/maybellene_tdc.mel",
+    "rs200_harmony/maybellene_tdc.har"
+  ],
+  "Me and Bobby McGee": [
+    "rs200_melody/me_and_bobby_mcgee_dt.mel",
+    "rs200_harmony/me_and_bobby_mcgee_dt.har",
+    "rs200_harmony/me_and_bobby_mcgee_tdc.har"
+  ],
+  "Mr. Tambourine Man (Byrds)": [
+    "rs200_melody/mr_tambourine_man_byrds_dt.mel",
+    "rs200_harmony/mr_tambourine_man_byrds_dt.har",
+    "rs200_harmony/mr_tambourine_man_byrds_tdc.har"
+  ],
+  "Mr. Tambourine Man (Dylan)": [
+    "rs200_melody/mr_tambourine_man_dylan_tdc.mel",
+    "rs200_harmony/mr_tambourine_man_dylan_tdc.har"
+  ],
+  "My Generation": [
+    "rs200_melody/my_generation_dt.mel",
+    "rs200_harmony/my_generation_tdc.har"
+  ],
+  "My Girl": [
+    "rs200_melody/my_girl_tdc.mel",
+    "rs200_harmony/my_girl_dt.har",
+    "rs200_harmony/my_girl_tdc.har"
+  ],
+  "Mystery Train": [
+    "rs200_melody/mystery_train_tdc.mel",
+    "rs200_harmony/mystery_train_dt.har",
+    "rs200_harmony/mystery_train_tdc.har"
+  ],
+  "No Woman No Cry": [
+    "rs200_melody/no_woman_no_cry_dt.mel",
+    "rs200_harmony/no_woman_no_cry_dt.har"
+  ],
+  "Norwegian Wood": [
+    "rs200_melody/norwegian_wood_dt.mel",
+    "rs200_harmony/norwegian_wood_dt.har",
+    "rs200_harmony/norwegian_wood_tdc.har"
+  ],
+  "Not Fade Away": [
+    "rs200_melody/not_fade_away_tdc.mel",
+    "rs200_harmony/not_fade_away_dt.har",
+    "rs200_harmony/not_fade_away_tdc.har"
+  ],
+  "Nothing Compares 2 U": [
+    "rs200_melody/nothing_compares_2_u_tdc.mel",
+    "rs200_harmony/nothing_compares_2_u_dt.har",
+    "rs200_harmony/nothing_compares_2_u_tdc.har"
+  ],
+  "Nuthin' But a G Thang": [
+    "rs200_melody/nuthin_but_a_g_thang_dt.mel"
+  ],
+  "One": [
+    "rs200_melody/one_tdc.mel",
+    "rs200_harmony/one_tdc.har"
+  ],
+  "Paint it Black": [
+    "rs200_melody/paint_it_black_dt.mel",
+    "rs200_harmony/paint_it_black_dt.har"
+  ],
+  "Papa Was a Rollin' Stone": [
+    "rs200_melody/papa_was_a_rollin_stone_tdc.mel",
+    "rs200_harmony/papa_was_a_rollin_stone_tdc.har"
+  ],
+  "Papa's Got a Brand New Bag": [
+    "rs200_melody/papas_got_a_brand_new_bag_dt.mel",
+    "rs200_harmony/papas_got_a_brand_new_bag_dt.har",
+    "rs200_harmony/papas_got_a_brand_new_bag_tdc.har"
+  ],
+  "Paranoid Android": [
+    "rs200_melody/paranoid_android_dt.mel",
+    "rs200_harmony/paranoid_android_dt.har",
+    "rs200_harmony/paranoid_android_tdc.har"
+  ],
+  "People Get Ready": [
+    "rs200_melody/people_get_ready_tdc.mel",
+    "rs200_harmony/people_get_ready_dt.har",
+    "rs200_harmony/people_get_ready_tdc.har"
+  ],
+  "Please, Please, Please": [
+    "rs200_melody/please_please_please_tdc.mel",
+    "rs200_harmony/please_please_please_tdc.har"
+  ],
+  "Proud Mary": [
+    "rs200_melody/proud_mary_dt.mel",
+    "rs200_harmony/proud_mary_dt.har",
+    "rs200_harmony/proud_mary_tdc.har"
+  ],
+  "Purple Haze": [
+    "rs200_melody/purple_haze_dt.mel",
+    "rs200_harmony/purple_haze_tdc.har"
+  ],
+  "Purple Rain": [
+    "rs200_melody/purple_rain_tdc.mel",
+    "rs200_harmony/purple_rain_dt.har",
+    "rs200_harmony/purple_rain_tdc.har"
+  ],
+  "Rave On": [
+    "rs200_melody/rave_on_tdc.mel",
+    "rs200_harmony/rave_on_dt.har",
+    "rs200_harmony/rave_on_tdc.har"
+  ],
+  "Redemption Song": [
+    "rs200_melody/redemption_song_dt.mel",
+    "rs200_harmony/redemption_song_dt.har",
+    "rs200_harmony/redemption_song_tdc.har"
+  ],
+  "Respect": [
+    "rs200_melody/respect_tdc.mel",
+    "rs200_harmony/respect_dt.har",
+    "rs200_harmony/respect_tdc.har"
+  ],
+  "Ring of Fire": [
+    "rs200_melody/ring_of_fire_dt.mel",
+    "rs200_harmony/ring_of_fire_tdc.har"
+  ],
+  "River Deep Mountain High": [
+    "rs200_melody/river_deep_mountain_high_dt.mel",
+    "rs200_harmony/river_deep_mountain_high_dt.har"
+  ],
+  "Rock and Roll Music": [
+    "rs200_melody/rock_and_roll_music_tdc.mel",
+    "rs200_harmony/rock_and_roll_music_dt.har",
+    "rs200_harmony/rock_and_roll_music_tdc.har"
+  ],
+  "Rock Around the Clock": [
+    "rs200_melody/rock_around_the_clock_dt.mel",
+    "rs200_harmony/rock_around_the_clock_dt.har",
+    "rs200_harmony/rock_around_the_clock_tdc.har"
+  ],
+  "Rock Lobster": [
+    "rs200_melody/rock_lobster_dt.mel",
+    "rs200_harmony/rock_lobster_dt.har",
+    "rs200_harmony/rock_lobster_tdc.har"
+  ],
+  "Rockin' in the Free World": [
+    "rs200_melody/rockin_in_the_free_world_tdc.mel",
+    "rs200_harmony/rockin_in_the_free_world_tdc.har"
+  ],
+  "Roll Over Beethoven": [
+    "rs200_melody/roll_over_beethoven_dt.mel",
+    "rs200_harmony/roll_over_beethoven_dt.har",
+    "rs200_harmony/roll_over_beethoven_tdc.har"
+  ],
+  "Sabotage": [
+    "rs200_melody/sabotage_tdc.mel",
+    "rs200_harmony/sabotage_dt.har",
+    "rs200_harmony/sabotage_tdc.har"
+  ],
+  "Satisfaction": [
+    "rs200_melody/satisfaction_dt.mel",
+    "rs200_harmony/satisfaction_dt.har",
+    "rs200_harmony/satisfaction_tdc.har"
+  ],
+  "September Gurls": [
+    "rs200_melody/september_gurls_tdc.mel",
+    "rs200_harmony/september_gurls_dt.har",
+    "rs200_harmony/september_gurls_tdc.har"
+  ],
+  "Shake Rattle and Roll": [
+    "rs200_melody/shake_rattle_and_roll_dt.mel",
+    "rs200_harmony/shake_rattle_and_roll_dt.har"
+  ],
+  "She Loves You": [
+    "rs200_melody/she_loves_you_tdc.mel",
+    "rs200_harmony/she_loves_you_dt.har",
+    "rs200_harmony/she_loves_you_tdc.har"
+  ],
+  "Should I Stay or Should I Go?": [
+    "rs200_melody/should_i_stay_or_should_i_go_tdc.mel",
+    "rs200_harmony/should_i_stay_or_should_i_go_tdc.har"
+  ],
+  "Shout": [
+    "rs200_melody/shout_dt.mel",
+    "rs200_harmony/shout_dt.har",
+    "rs200_harmony/shout_tdc.har"
+  ],
+  "Smells Like Teen Spirit": [
+    "rs200_melody/smells_like_teen_spirit_dt.mel",
+    "rs200_harmony/smells_like_teen_spirit_dt.har",
+    "rs200_harmony/smells_like_teen_spirit_tdc.har"
+  ],
+  "Stairway To Heaven": [
+    "rs200_melody/stairway_to_heaven_tdc.mel",
+    "rs200_harmony/stairway_to_heaven_tdc.har"
+  ],
+  "Stand By Me": [
+    "rs200_melody/stand_by_me_tdc.mel",
+    "rs200_harmony/stand_by_me_dt.har",
+    "rs200_harmony/stand_by_me_tdc.har"
+  ],
+  "Strawberry Fields Forever": [
+    "rs200_melody/strawberry_fields_forever_dt.mel",
+    "rs200_harmony/strawberry_fields_forever_dt.har",
+    "rs200_harmony/strawberry_fields_forever_tdc.har"
+  ],
+  "Summer Babe": [
+    "rs200_melody/summer_babe_dt.mel",
+    "rs200_harmony/summer_babe_dt.har",
+    "rs200_harmony/summer_babe_tdc.har"
+  ],
+  "Summertime Blues": [
+    "rs200_melody/summertime_blues_tdc.mel",
+    "rs200_harmony/summertime_blues_dt.har",
+    "rs200_harmony/summertime_blues_tdc.har"
+  ],
+  "Sunshine Of Your Love": [
+    "rs200_melody/sunshine_of_your_love_tdc.mel",
+    "rs200_harmony/sunshine_of_your_love_tdc.har"
+  ],
+  "Superstition": [
+    "rs200_melody/superstition_dt.mel",
+    "rs200_harmony/superstition_dt.har",
+    "rs200_harmony/superstition_tdc.har"
+  ],
+  "Suspicious Minds": [
+    "rs200_melody/suspicious_minds_dt.mel",
+    "rs200_harmony/suspicious_minds_dt.har",
+    "rs200_harmony/suspicious_minds_tdc.har"
+  ],
+  "Sweet Child O' Mine": [
+    "rs200_melody/sweet_child_o_mine_tdc.mel",
+    "rs200_harmony/sweet_child_o_mine_dt.har",
+    "rs200_harmony/sweet_child_o_mine_tdc.har"
+  ],
+  "Sympathy for the Devil": [
+    "rs200_melody/sympathy_for_the_devil_dt.mel",
+    "rs200_harmony/sympathy_for_the_devil_dt.har"
+  ],
+  "Take Me To The River": [
+    "rs200_melody/take_me_to_the_river_tdc.mel",
+    "rs200_harmony/take_me_to_the_river_tdc.har"
+  ],
+  "Tangled Up In Blue": [
+    "rs200_melody/tangled_up_in_blue_dt.mel",
+    "rs200_harmony/tangled_up_in_blue_tdc.har"
+  ],
+  "Tears in Heaven": [
+    "rs200_melody/tears_in_heaven_tdc.mel",
+    "rs200_harmony/tears_in_heaven_dt.har",
+    "rs200_harmony/tears_in_heaven_tdc.har"
+  ],
+  "That'll Be The Day": [
+    "rs200_melody/thatll_be_the_day_dt.mel",
+    "rs200_harmony/thatll_be_the_day_dt.har",
+    "rs200_harmony/thatll_be_the_day_tdc.har"
+  ],
+  "That's All Right": [
+    "rs200_melody/thats_all_right_tdc.mel",
+    "rs200_harmony/thats_all_right_dt.har",
+    "rs200_harmony/thats_all_right_tdc.har"
+  ],
+  "The Boxer": [
+    "rs200_melody/the_boxer_dt.mel",
+    "rs200_harmony/the_boxer_dt.har",
+    "rs200_harmony/the_boxer_tdc.har"
+  ],
+  "Dock of the Bay": [
+    "rs200_melody/the_dock_of_the_bay_dt.mel",
+    "rs200_harmony/the_dock_of_the_bay_dt.har"
+  ],
+  "The Message": [
+    "rs200_melody/the_message_tdc.mel",
+    "rs200_harmony/the_message_dt.har",
+    "rs200_harmony/the_message_tdc.har"
+  ],
+  "The Sounds of Silence": [
+    "rs200_melody/the_sounds_of_silence_tdc.mel",
+    "rs200_harmony/the_sounds_of_silence_tdc.har"
+  ],
+  "The Times They Are A-Changin'": [
+    "rs200_melody/the_times_they_are_a-changin_dt.mel"
+  ],
+  "The Tracks Of My Tears": [
+    "rs200_melody/the_tracks_of_my_tears_tdc.mel"
+  ],
+  "The Weight": [
+    "rs200_melody/the_weight_dt.mel",
+    "rs200_harmony/the_weight_dt.har",
+    "rs200_harmony/the_weight_tdc.har"
+  ],
+  "Thunder Road": [
+    "rs200_melody/thunder_road_dt.mel",
+    "rs200_harmony/thunder_road_dt.har",
+    "rs200_harmony/thunder_road_tdc.har"
+  ],
+  "Tutti Frutti": [
+    "rs200_melody/tutti_frutti_tdc.mel",
+    "rs200_harmony/tutti_frutti_dt.har",
+    "rs200_harmony/tutti_frutti_tdc.har"
+  ],
+  "Up On The Roof": [
+    "rs200_melody/up_on_the_roof_tdc.mel",
+    "rs200_harmony/up_on_the_roof_tdc.har"
+  ],
+  "Voodoo Child": [
+    "rs200_melody/voodoo_child_dt.mel",
+    "rs200_harmony/voodoo_child_dt.har",
+    "rs200_harmony/voodoo_child_tdc.har"
+  ],
+  "Walk On By": [
+    "rs200_melody/walk_on_by_tdc.mel",
+    "rs200_harmony/walk_on_by_dt.har",
+    "rs200_harmony/walk_on_by_tdc.har"
+  ],
+  "Waterloo Sunset": [
+    "rs200_melody/waterloo_sunset_dt.mel",
+    "rs200_harmony/waterloo_sunset_dt.har",
+    "rs200_harmony/waterloo_sunset_tdc.har"
+  ],
+  "What'd I Say": [
+    "rs200_melody/whatd_i_say_dt.mel",
+    "rs200_harmony/whatd_i_say_dt.har",
+    "rs200_harmony/whatd_i_say_tdc.har"
+  ],
+  "What's Going On": [
+    "rs200_melody/whats_going_on_tdc.mel",
+    "rs200_harmony/whats_going_on_dt.har",
+    "rs200_harmony/whats_going_on_tdc.har"
+  ],
+  "When a Man Loves a Woman": [
+    "rs200_melody/when_a_man_loves_a_woman_tdc.mel",
+    "rs200_harmony/when_a_man_loves_a_woman_dt.har",
+    "rs200_harmony/when_a_man_loves_a_woman_tdc.har"
+  ],
+  "When Doves Cry": [
+    "rs200_melody/when_doves_cry_dt.mel",
+    "rs200_harmony/when_doves_cry_dt.har",
+    "rs200_harmony/when_doves_cry_tdc.har"
+  ],
+  "While My Guitar Gently Weeps": [
+    "rs200_melody/while_my_guitar_gently_weeps_dt.mel",
+    "rs200_harmony/while_my_guitar_gently_weeps_dt.har",
+    "rs200_harmony/while_my_guitar_gently_weeps_tdc.har"
+  ],
+  "Who Do You Love": [
+    "rs200_melody/who_do_you_love_dt.mel",
+    "rs200_harmony/who_do_you_love_dt.har",
+    "rs200_harmony/who_do_you_love_tdc.har"
+  ],
+  "Whole Lotta Love": [
+    "rs200_melody/whole_lotta_love_tdc.mel",
+    "rs200_harmony/whole_lotta_love_dt.har",
+    "rs200_harmony/whole_lotta_love_tdc.har"
+  ],
+  "Whole Lotta Shakin' Goin' On": [
+    "rs200_melody/whole_lotta_shakin_goin_on_tdc.mel",
+    "rs200_harmony/whole_lotta_shakin_goin_on_tdc.har"
+  ],
+  "Will You Love Me Tomorrow": [
+    "rs200_melody/will_you_love_me_tomorrow_dt.mel",
+    "rs200_harmony/will_you_love_me_tomorrow_dt.har",
+    "rs200_harmony/will_you_love_me_tomorrow_tdc.har"
+  ],
+  "With Or Without You": [
+    "rs200_melody/with_or_without_you_dt.mel"
+  ],
+  "Won't Get Fooled Again": [
+    "rs200_melody/wont_get_fooled_again_tdc.mel",
+    "rs200_harmony/wont_get_fooled_again_dt.har",
+    "rs200_harmony/wont_get_fooled_again_tdc.har"
+  ],
+  "Yesterday (1965)": [
+    "rs200_melody/yesterday_tdc.mel"
+  ],
+  "You Can't Always Get What You Want": [
+    "rs200_melody/you_cant_always_get_what_you_want_dt.mel",
+    "rs200_harmony/you_cant_always_get_what_you_want_tdc.har"
+  ],
+  "You Really Got Me": [
+    "rs200_melody/you_really_got_me_tdc.mel",
+    "rs200_harmony/you_really_got_me_dt.har",
+    "rs200_harmony/you_really_got_me_tdc.har"
+  ],
+  "You Send Me": [
+    "rs200_melody/you_send_me_dt.mel",
+    "rs200_harmony/you_send_me_dt.har",
+    "rs200_harmony/you_send_me_tdc.har"
+  ],
+  "Your Song": [
+    "rs200_melody/your_song_dt.mel",
+    "rs200_harmony/your_song_dt.har",
+    "rs200_harmony/your_song_tdc.har"
+  ],
+  "You've Lost That Lovin' Feelin'": [
+    "rs200_melody/youve_lost_that_lovin_feelin_tdc.mel",
+    "rs200_harmony/youve_lost_that_lovin_feelin_tdc.har"
+  ],
+  "A Change Is Gonna Come": [
+    "rs200_harmony/a_change_is_gonna_come_tdc.har"
+  ],
+  "A Day in the Life": [
+    "rs200_harmony/a_day_in_the_life_dt.har"
+  ],
+  "Hard Day's Night": [
+    "rs200_harmony/a_hard_days_night_tdc.har"
+  ],
+  "Whiter Shade of Pale": [
+    "rs200_harmony/a_whiter_shade_of_pale_dt.har"
+  ],
+  "All Along The Watchtower": [
+    "rs200_harmony/all_along_the_watchtower_tdc.har"
+  ],
+  "All I Have to do is Dream": [
+    "rs200_harmony/all_i_have_to_do_is_dream_dt.har"
+  ],
+  "Anarchy in the UK": [
+    "rs200_harmony/anarchy_in_the_uk_dt.har"
+  ],
+  "Be Bop A Lula": [
+    "rs200_harmony/be-bop-a-lula_dt.har"
+  ],
+  "Bittersweet Symphony": [
+    "rs200_harmony/bitter_sweet_symphony_dt.har"
+  ],
+  "Dylan - Blowin' in the Wind": [
+    "rs200_harmony/blowin_in_the_wind_dt.har"
+  ],
+  "Born To Be Wild": [
+    "rs200_harmony/born_to_be_wild_tdc.har"
+  ],
+  "Born To Run": [
+    "rs200_harmony/born_to_run_tdc.har"
+  ],
+  "Dancing In The Street": [
+    "rs200_harmony/dancing_in_the_street_tdc.har"
+  ],
+  "Don't Worry Baby": [
+    "rs200_harmony/dont_worry_baby_dt.har",
+    "rs200_harmony/dont_worry_baby_tdc.har"
+  ],
+  "For What Its Worth": [
+    "rs200_harmony/for_what_its_worth_dt.har"
+  ],
+  "God Save The Queen": [
+    "rs200_harmony/god_save_the_queen_tdc.har"
+  ],
+  "Help!": [
+    "rs200_harmony/help_tdc.har"
+  ],
+  "I Fought The Law": [
+    "rs200_harmony/i_fought_the_law_tdc.har"
+  ],
+  "I Got You": [
+    "rs200_harmony/i_got_you_dt.har"
+  ],
+  "I Heard It Through the Grapevine": [
+    "rs200_harmony/i_heard_it_through_the_grapevine_tdc.har"
+  ],
+  "I Only Have Eyes": [
+    "rs200_harmony/i_only_have_eyes_for_you_dt.har"
+  ],
+  "I Walk the Line": [
+    "rs200_harmony/i_walk_the_line_dt.har"
+  ],
+  "I Wanna Hold Your Hand": [
+    "rs200_harmony/i_want_to_hold_your_hand_dt.har"
+  ],
+  "I Want to Hold Your Hand": [
+    "rs200_harmony/i_want_to_hold_your_hand_tdc.har"
+  ],
+  "I'm Waiting For The Man": [
+    "rs200_harmony/im_waiting_for_the_man_tdc.har"
+  ],
+  "In My Life": [
+    "rs200_harmony/in_my_life_dt.har",
+    "rs200_harmony/in_my_life_tdc.har"
+  ],
+  "In The Midnight Hour": [
+    "rs200_harmony/in_the_midnight_hour_dt.har"
+  ],
+  "In the Still of the Nite": [
+    "rs200_harmony/in_the_still_of_the_night_tdc.har"
+  ],
+  "It's A Man's World": [
+    "rs200_harmony/its_a_mans_mans_mans_world_dt.har"
+  ],
+  "Let It Be": [
+    "rs200_harmony/let_it_be_tdc.har"
+  ],
+  "Let's Get It On": [
+    "rs200_harmony/lets_get_it_on_tdc.har"
+  ],
+  "Light my Fire": [
+    "rs200_harmony/light_my_fire_dt.har"
+  ],
+  "Like A Rolling Stone": [
+    "rs200_harmony/like_a_rolling_stone_dt.har",
+    "rs200_harmony/like_a_rolling_stone_tdc.har"
+  ],
+  "Living For The City": [
+    "rs200_harmony/living_for_the_city_tdc.har"
+  ],
+  "Lust For Life": [
+    "rs200_harmony/lust_for_life_tdc.har"
+  ],
+  "Maybelline": [
+    "rs200_harmony/maybellene_dt.har"
+  ],
+  "Mr Tambourine Man (Dylan)": [
+    "rs200_harmony/mr_tambourine_man_dylan_dt.har"
+  ],
+  "11 My Generation": [
+    "rs200_harmony/my_generation_dt.har"
+  ],
+  "No Woman, No Cry": [
+    "rs200_harmony/no_woman_no_cry_tdc.har"
+  ],
+  "Nuthin But a G Thang": [
+    "rs200_harmony/nuthin_but_a_g_thang_dt.har"
+  ],
+  "Nuthin' But A \"G\" Thang": [
+    "rs200_harmony/nuthin_but_a_g_thang_tdc.har"
+  ],
+  "Paint It, Black": [
+    "rs200_harmony/paint_it_black_tdc.har"
+  ],
+  "Papa Was a Rolling Stone": [
+    "rs200_harmony/papa_was_a_rollin_stone_dt.har"
+  ],
+  "Please Please Please": [
+    "rs200_harmony/please_please_please_dt.har"
+  ],
+  "Jimi Hendrix, Purple Haze": [
+    "rs200_harmony/purple_haze_dt.har"
+  ],
+  "Ring Of Fire": [
+    "rs200_harmony/ring_of_fire_dt.har"
+  ],
+  "River Deep, Mountain High": [
+    "rs200_harmony/river_deep_mountain_high_tdc.har"
+  ],
+  "Rockin in the Free World": [
+    "rs200_harmony/rockin_in_the_free_world_dt.har"
+  ],
+  "Shake, Rattle, and Roll": [
+    "rs200_harmony/shake_rattle_and_roll_tdc.har"
+  ],
+  "Should I Stay or Should I Go": [
+    "rs200_harmony/should_i_stay_or_should_i_go_dt.har"
+  ],
+  "Stairway to Heaven": [
+    "rs200_harmony/stairway_to_heaven_dt.har"
+  ],
+  "Sunshine of your Love": [
+    "rs200_harmony/sunshine_of_your_love_dt.har"
+  ],
+  "Sympathy For The Devil": [
+    "rs200_harmony/sympathy_for_the_devil_tdc.har"
+  ],
+  "Take Me to the River": [
+    "rs200_harmony/take_me_to_the_river_dt.har"
+  ],
+  "Tangled Up in Blue": [
+    "rs200_harmony/tangled_up_in_blue_dt.har"
+  ],
+  "(Sittin' On) The Dock of the Bay": [
+    "rs200_harmony/the_dock_of_the_bay_tdc.har"
+  ],
+  "Sounds of Silence": [
+    "rs200_harmony/the_sounds_of_silence_dt.har"
+  ],
+  "The Times They Are A Changin": [
+    "rs200_harmony/the_times_they_are_a-changin_dt.har"
+  ],
+  "The Times They Are A Changin'": [
+    "rs200_harmony/the_times_they_are_a-changin_tdc.har"
+  ],
+  "The Tracks of my Tears": [
+    "rs200_harmony/the_tracks_of_my_tears_dt.har"
+  ],
+  "Tracks Of My Tears": [
+    "rs200_harmony/the_tracks_of_my_tears_tdc.har"
+  ],
+  "Up on the Roof": [
+    "rs200_harmony/up_on_the_roof_dt.har"
+  ],
+  "Whole Lotta Shakin Goin On": [
+    "rs200_harmony/whole_lotta_shakin_goin_on_dt.har"
+  ],
+  "With or Without You": [
+    "rs200_harmony/with_or_without_you_dt.har"
+  ],
+  "With Or Without Out": [
+    "rs200_harmony/with_or_without_you_tdc.har"
+  ],
+  "Beatles, Yesterday": [
+    "rs200_harmony/yesterday_dt.har"
+  ],
+  "Yesterday": [
+    "rs200_harmony/yesterday_tdc.har"
+  ],
+  "You Can't Always Get You What You Want": [
+    "rs200_harmony/you_cant_always_get_what_you_want_dt.har"
+  ],
+  "You've Lost that Lovin' Feeling": [
+    "rs200_harmony/youve_lost_that_lovin_feelin_dt.har"
+  ]
+}

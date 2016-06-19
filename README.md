@@ -2,13 +2,15 @@
 
 __The unofficial data repository of [A Corpus Study of Rock Music](http://theory.esm.rochester.edu/rock_corpus/index.html)__
 
-This is a copy of the Corpus v2.1 created by Trevor de Clercq and David Temperley
+This is a copy of the Corpus v2.1 created by Trevor de Clercq and David Temperley translated to JSON format.
 
-The purpose of this repository is make the data more accessible and write some utilities to work with the data in javascript.
+## Corpus
 
-It's a work in progress...
+Currently the `corpus` folder contains the following JSON files:
 
-## RESOURCES
+- `corpus/titles.json`: All the song titles mapped to the files names that defined it
+
+## Resources
 
 - [Home page](http://theory.esm.rochester.edu/rock_corpus/index.html)
 - [2013 Paper](http://theory.esm.rochester.edu/rock_corpus/temperley_declercq_2013.pdf)
