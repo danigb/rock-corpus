@@ -9,6 +9,8 @@ This is a copy of the Corpus v2.1 created by Trevor de Clercq and David Temperle
 Currently the `corpus` folder contains the following JSON files:
 
 - `corpus/titles.json`: All the song titles mapped to the files names that defined it
+- `corpus/songs.json`: A songs indexed by titles with song properties
+- `corpus/stats.json`: Statistics (key frequency, ...)
 
 ## Resources
 

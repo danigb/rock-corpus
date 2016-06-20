@@ -30,13 +30,13 @@
   },
   "homepage": "https://github.com/danigb/rock-corpus#readme",
   "devDependencies": {
+    "as-arr": "^1.0.0",
     "colors": "^1.1.2",
     "diff": "^2.1.1",
     "metalsmith": "^2.1.0",
     "vows": "^0.8.1"
   },
   "dependencies": {
-    "capitalize": "^1.0.0",
-    "fuzzy": "^0.1.1"
+    "capitalize": "^1.0.0"
   }
 }
