@@ -9,7 +9,7 @@
     "test": "test"
   },
   "scripts": {
-    "build": "node lib/index.js"
+    "start": "node lib/index.js"
   },
   "repository": {
     "type": "git",
@@ -36,6 +36,7 @@
     "vows": "^0.8.1"
   },
   "dependencies": {
-    "capitalize": "^1.0.0"
+    "capitalize": "^1.0.0",
+    "fuzzy": "^0.1.1"
   }
 }
