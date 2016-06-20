@@ -2,7 +2,7 @@
 
 __The unofficial data repository of [A Corpus Study of Rock Music](http://theory.esm.rochester.edu/rock_corpus/index.html)__
 
-This is a copy of the Corpus v2.1 created by Trevor de Clercq and David Temperley translated to JSON format.
+This is a copy of the Corpus v2.1 created by Trevor de Clercq and David Temperley translated to JSON format. The aim of this project is make more accessible the data to programmers.
 
 ## Corpus
 
@@ -24,6 +24,6 @@ Clone this repo and assuming you have node and npm installed type: `npm i && npm
 
 ## LICENSES
 
-The Corpus data was created and mantained by Trevor de Clercq (trevor.declercq@gmail.com) and David Temperley (dtemperley@esm.rochester.edu) and has a CC-4.0-by License
+The Corpus data was created and mantained by Trevor de Clercq (trevor.declercq@gmail.com) and David Temperley (dtemperley@esm.rochester.edu) and has a CC-4.0-by License. All documents inside `source` folder are copied without modification from there.
 
-All the code of this repository was created and mantained by danigb and has a MIT License
+The rest of the code has MIT License.
