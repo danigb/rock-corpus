@@ -591,14 +591,14 @@
     "key": "Bb",
     "meter": "4/4"
   },
-  "Me And Bobby McGee": {
-    "title": "Me And Bobby McGee",
-    "key": "G",
-    "meter": "4/4"
-  },
   "Mr. Tambourine Man (Byrds)": {
     "title": "Mr. Tambourine Man (Byrds)",
     "key": "D",
+    "meter": "4/4"
+  },
+  "Me And Bobby McGee": {
+    "title": "Me And Bobby McGee",
+    "key": "G",
     "meter": "4/4"
   },
   "Mr. Tambourine Man (Dylan)": {
