@@ -1,6 +1,6 @@
 # A Corpus Study of Rock Music
 
-__The unofficial data repository of [A Corpus Study of Rock Music](http://theory.esm.rochester.edu/rock_corpus/index.html)__
+__The unofficial data repository of [A Corpus Study of Rock Music](http://rockcorpus.midside.com/index.html)__
 
 This is a copy of the Corpus v2.1 created by Trevor de Clercq and David Temperley translated to JSON format. The aim of this project is make more accessible the data to programmers.
 
@@ -18,9 +18,9 @@ Clone this repo and assuming you have node and npm installed type: `npm i && npm
 
 ## Resources
 
-- [Home page](http://theory.esm.rochester.edu/rock_corpus/index.html)
-- [2013 Paper](http://theory.esm.rochester.edu/rock_corpus/temperley_declercq_2013.pdf)
-- [2011 Paper](http://theory.esm.rochester.edu/rock_corpus/2011_paper/declercq_temperley_2011.pdf)
+- [Home page](http://rockcorpus.midside.com/index.html)
+- [2013 Paper](http://www.midside.com/publications/temperley_declercq_2013.pdf)
+- [2011 Paper](http://rockcorpus.midside.com/2011_paper/declercq_temperley_2011.pdf)
 
 ## LICENSES
 
